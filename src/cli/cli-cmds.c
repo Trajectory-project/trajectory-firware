@@ -218,7 +218,7 @@ static const CLI_Command_Definition_t xStart = {
 		"start", /* The command string to type. */
 		"\r\n"
 		"start:\r\n"
-		"  Displays an answer \"ready\" only.\r\n",
+		"  Displays an answer \"ready\" only nya.\r\n",
 		prvStartCommand, /* The function to run. */
 		0 /* No parameters are expected. */
 };
