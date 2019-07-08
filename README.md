@@ -1,2 +1,2 @@
 # trajectory-firware
-Trajectory firmware
+Trajectory firmware (new version)
