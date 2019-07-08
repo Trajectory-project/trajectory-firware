@@ -41,15 +41,15 @@
                   <listOptionValue builtIn="false" value="../Inc" />
                   <listOptionValue builtIn="false" value="../Drivers/STM32F4xx_HAL_Driver/Inc" />
                   <listOptionValue builtIn="false" value="../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy" />
-                  <listOptionValue builtIn="false" value="../Drivers/CMSIS/Device/ST/STM32F4xx/Include" />
-                  <listOptionValue builtIn="false" value="../Drivers/CMSIS/Include" />
-                <listOptionValue builtIn="false" value="../Middlewares/Third_Party/FreeRTOS/Source/include" /><listOptionValue builtIn="false" value="../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS" /><listOptionValue builtIn="false" value="../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F" /></option>
+                  <listOptionValue builtIn="false" value="../Middlewares/Third_Party/FreeRTOS/Source/include" />
+                  <listOptionValue builtIn="false" value="../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS" />
+                <listOptionValue builtIn="false" value="../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F" /><listOptionValue builtIn="false" value="../Drivers/CMSIS/Device/ST/STM32F4xx/Include" /><listOptionValue builtIn="false" value="../Drivers/CMSIS/Include" /></option>
 								<option id="gnu.c.compiler.option.preprocessor.def.symbols.584712695" name="Defined symbols (-D)" superClass="gnu.c.compiler.option.preprocessor.def.symbols" useByScannerDiscovery="false" valueType="definedSymbols">
-                  <listOptionValue builtIn="false" value="__weak=&quot;__attribute__((weak))&quot;" />
-                  <listOptionValue builtIn="false" value="__packed=&quot;__attribute__((__packed__))&quot;" />
+                  
+                  
                   <listOptionValue builtIn="false" value="USE_HAL_DRIVER" />
                   <listOptionValue builtIn="false" value="STM32F407xx" />
-                </option>
+                <listOptionValue builtIn="false" value="__weak=__attribute__((weak))" /><listOptionValue builtIn="false" value="__packed=__attribute__((__packed__))" /></option>
 								<option id="fr.ac6.managedbuild.gnu.c.compiler.option.misc.other.1193089504" superClass="fr.ac6.managedbuild.gnu.c.compiler.option.misc.other" value="-fmessage-length=0" valueType="string" />
 								<inputType id="fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.c.2089157980" superClass="fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.c" />
 								<inputType id="fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.s.450482328" superClass="fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.s" />
@@ -61,15 +61,15 @@
                   <listOptionValue builtIn="false" value="../Inc" />
                   <listOptionValue builtIn="false" value="../Drivers/STM32F4xx_HAL_Driver/Inc" />
                   <listOptionValue builtIn="false" value="../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy" />
-                  <listOptionValue builtIn="false" value="../Drivers/CMSIS/Device/ST/STM32F4xx/Include" />
-                  <listOptionValue builtIn="false" value="../Drivers/CMSIS/Include" />
-                <listOptionValue builtIn="false" value="../Middlewares/Third_Party/FreeRTOS/Source/include" /><listOptionValue builtIn="false" value="../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS" /><listOptionValue builtIn="false" value="../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F" /></option>
+                  <listOptionValue builtIn="false" value="../Middlewares/Third_Party/FreeRTOS/Source/include" />
+                  <listOptionValue builtIn="false" value="../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS" />
+                <listOptionValue builtIn="false" value="../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F" /><listOptionValue builtIn="false" value="../Drivers/CMSIS/Device/ST/STM32F4xx/Include" /><listOptionValue builtIn="false" value="../Drivers/CMSIS/Include" /></option>
 								<option id="gnu.cpp.compiler.option.preprocessor.def.184913095" name="Defined symbols (-D)" superClass="gnu.cpp.compiler.option.preprocessor.def" useByScannerDiscovery="false" valueType="definedSymbols">
-                  <listOptionValue builtIn="false" value="__weak=&quot;__attribute__((weak))&quot;" />
-                  <listOptionValue builtIn="false" value="__packed=&quot;__attribute__((__packed__))&quot;" />
+                  
+                  
                   <listOptionValue builtIn="false" value="USE_HAL_DRIVER" />
                   <listOptionValue builtIn="false" value="STM32F407xx" />
-                </option>
+                <listOptionValue builtIn="false" value="__weak=__attribute__((weak))" /><listOptionValue builtIn="false" value="__packed=__attribute__((__packed__))" /></option>
 								<option id="fr.ac6.managedbuild.gnu.cpp.compiler.option.misc.other.1454266829" superClass="fr.ac6.managedbuild.gnu.cpp.compiler.option.misc.other" value="-fmessage-length=0" valueType="string" />
 								<inputType id="fr.ac6.managedbuild.tool.gnu.cross.cpp.compiler.input.cpp.1533793855" superClass="fr.ac6.managedbuild.tool.gnu.cross.cpp.compiler.input.cpp" />
 								<inputType id="fr.ac6.managedbuild.tool.gnu.cross.cpp.compiler.input.s.1968824549" superClass="fr.ac6.managedbuild.tool.gnu.cross.cpp.compiler.input.s" />
@@ -158,15 +158,15 @@
                   <listOptionValue builtIn="false" value="../Inc" />
                   <listOptionValue builtIn="false" value="../Drivers/STM32F4xx_HAL_Driver/Inc" />
                   <listOptionValue builtIn="false" value="../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy" />
-                  <listOptionValue builtIn="false" value="../Drivers/CMSIS/Device/ST/STM32F4xx/Include" />
-                  <listOptionValue builtIn="false" value="../Drivers/CMSIS/Include" />
-                <listOptionValue builtIn="false" value="../Middlewares/Third_Party/FreeRTOS/Source/include" /><listOptionValue builtIn="false" value="../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS" /><listOptionValue builtIn="false" value="../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F" /></option>
+                  <listOptionValue builtIn="false" value="../Middlewares/Third_Party/FreeRTOS/Source/include" />
+                  <listOptionValue builtIn="false" value="../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS" />
+                <listOptionValue builtIn="false" value="../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F" /><listOptionValue builtIn="false" value="../Drivers/CMSIS/Device/ST/STM32F4xx/Include" /><listOptionValue builtIn="false" value="../Drivers/CMSIS/Include" /></option>
 								<option id="gnu.c.compiler.option.preprocessor.def.symbols.584712695" name="Defined symbols (-D)" superClass="gnu.c.compiler.option.preprocessor.def.symbols" useByScannerDiscovery="false" valueType="definedSymbols">
-                  <listOptionValue builtIn="false" value="__weak=&quot;__attribute__((weak))&quot;" />
-                  <listOptionValue builtIn="false" value="__packed=&quot;__attribute__((__packed__))&quot;" />
+                  
+                  
                   <listOptionValue builtIn="false" value="USE_HAL_DRIVER" />
                   <listOptionValue builtIn="false" value="STM32F407xx" />
-                </option>
+                <listOptionValue builtIn="false" value="__weak=__attribute__((weak))" /><listOptionValue builtIn="false" value="__packed=__attribute__((__packed__))" /></option>
 								<option id="fr.ac6.managedbuild.gnu.c.compiler.option.misc.other.1193089504" superClass="fr.ac6.managedbuild.gnu.c.compiler.option.misc.other" value="-fmessage-length=0" valueType="string" />
 								<inputType id="fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.c.2089157980" superClass="fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.c" />
 								<inputType id="fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.s.450482328" superClass="fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.s" />
@@ -178,15 +178,15 @@
                   <listOptionValue builtIn="false" value="../Inc" />
                   <listOptionValue builtIn="false" value="../Drivers/STM32F4xx_HAL_Driver/Inc" />
                   <listOptionValue builtIn="false" value="../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy" />
-                  <listOptionValue builtIn="false" value="../Drivers/CMSIS/Device/ST/STM32F4xx/Include" />
-                  <listOptionValue builtIn="false" value="../Drivers/CMSIS/Include" />
-                <listOptionValue builtIn="false" value="../Middlewares/Third_Party/FreeRTOS/Source/include" /><listOptionValue builtIn="false" value="../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS" /><listOptionValue builtIn="false" value="../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F" /></option>
+                  <listOptionValue builtIn="false" value="../Middlewares/Third_Party/FreeRTOS/Source/include" />
+                  <listOptionValue builtIn="false" value="../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS" />
+                <listOptionValue builtIn="false" value="../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F" /><listOptionValue builtIn="false" value="../Drivers/CMSIS/Device/ST/STM32F4xx/Include" /><listOptionValue builtIn="false" value="../Drivers/CMSIS/Include" /></option>
 								<option id="gnu.cpp.compiler.option.preprocessor.def.symbols.980384499" name="Defined symbols (-D)" superClass="gnu.cpp.compiler.option.preprocessor.def.symbols" useByScannerDiscovery="false" valueType="definedSymbols">
-                  <listOptionValue builtIn="false" value="__weak=&quot;__attribute__((weak))&quot;" />
-                  <listOptionValue builtIn="false" value="__packed=&quot;__attribute__((__packed__))&quot;" />
+                  
+                  
                   <listOptionValue builtIn="false" value="USE_HAL_DRIVER" />
                   <listOptionValue builtIn="false" value="STM32F407xx" />
-                </option>
+                <listOptionValue builtIn="false" value="__weak=__attribute__((weak))" /><listOptionValue builtIn="false" value="__packed=__attribute__((__packed__))" /></option>
 								<option id="fr.ac6.managedbuild.gnu.cpp.compiler.option.misc.other.1454266829" superClass="fr.ac6.managedbuild.gnu.cpp.compiler.option.misc.other" value="-fmessage-length=0" valueType="string" />
 								<inputType id="fr.ac6.managedbuild.tool.gnu.cross.cpp.compiler.input.cpp.1533793855" superClass="fr.ac6.managedbuild.tool.gnu.cross.cpp.compiler.input.cpp" />
 								<inputType id="fr.ac6.managedbuild.tool.gnu.cross.cpp.compiler.input.s.1968824549" superClass="fr.ac6.managedbuild.tool.gnu.cross.cpp.compiler.input.s" />

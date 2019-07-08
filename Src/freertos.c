@@ -135,13 +135,13 @@ void blink(void const * argument)
   for(;;)
   {
 	HAL_GPIO_TogglePin(GPIOD, led_green_Pin);
-    osDelay(100);
+    osDelay(337);
     HAL_GPIO_TogglePin(GPIOD, led_orange_Pin);
-    osDelay(100);
+    osDelay(777);
     HAL_GPIO_TogglePin(GPIOD, led_red_Pin);
-    osDelay(100);
+    osDelay(387);
     HAL_GPIO_TogglePin(GPIOD, led_blue_Pin);
-    osDelay(500);
+    osDelay(591);
 
   }
   /* USER CODE END blink */
